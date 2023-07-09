@@ -10,3 +10,4 @@ Arduino Micro         VMA409
 | 5V     |           |        B |-Rouge
 | GND    |           |        B |-Bleu
 +--------+           +----------+
+ 
